@@ -66,9 +66,6 @@ We tested several models using **5-fold stratified cross-validation**:
 - Predicted distribution of personality types in Kaggle forums.
 - Interactive pie chart of predicted personality percentages.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/barplot-example.png" width="600"/>
-</p>
 
 ---
 
