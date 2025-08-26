@@ -3,7 +3,6 @@
 Predicting MBTI (Myers-Briggs Type Indicator) personality types from textual data using Machine Learning and NLP techniques.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)
 
 ---
